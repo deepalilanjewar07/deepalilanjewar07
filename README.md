@@ -75,14 +75,6 @@ Spring Boot • Microservices • Kafka • Redis • MySQL
 
 ---
 
-### 💰 Expense Tracker
-
-Spring Boot • MySQL
-
-Personal finance management application.
-
----
-
 ### 🔗 URL Shortener
 
 Spring Boot • Redis
@@ -91,12 +83,17 @@ High-performance URL shortening service.
 
 ---
 
-### 🔐 Authentication Service
+### 🤖 Multi-Agent AI Coding Assistant
 
-JWT • Spring Security
+**Python • LangGraph • LLMs • AI Agents**
 
-Authentication & Authorization APIs.
+A multi-agent AI coding assistant that automatically plans, designs, and generates complete software applications using collaborative AI agents.
 
+**Key Features**
+- Multi-agent workflow orchestration using LangGraph
+- Automated planning, architecture, and code generation
+- LLM-powered reasoning for end-to-end application development
+- Modular agent design for scalable and extensible workflows
 ---
 
 # 📖 DSA Journey
