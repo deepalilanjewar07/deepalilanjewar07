@@ -77,9 +77,9 @@ Spring Boot • Microservices • Kafka • Redis • MySQL
 
 ### 🔗 URL Shortener
 
-Spring Boot • Redis
+**Java • Spring Boot • Redis • Kafka • PostgreSQL • Angular**
 
-High-performance URL shortening service.
+Developed a scalable URL shortening service with JWT authentication, Redis caching, Kafka-based event processing, and PostgreSQL persistence. Implemented click analytics, rate limiting, and a cache-aside strategy to optimize URL lookups and backend performance.
 
 ---
 
