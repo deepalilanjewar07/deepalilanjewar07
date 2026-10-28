@@ -12,7 +12,7 @@ Building scalable backend systems, solving algorithmic problems, and continuousl
 
 # 👩‍💻 About Me
 
-- 💼 Backend Engineer with **1.8 years** of professional experience
+- 💼 Backend Engineer with **2+ years** of professional experience
 - ☕ Passionate about **Java Backend Development**
 - 🚀 Building scalable applications using **Spring Boot & Microservices**
 - 📚 Currently learning **System Design, Kubernetes, AWS & Distributed Systems**
